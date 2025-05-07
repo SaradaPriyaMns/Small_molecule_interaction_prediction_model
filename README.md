@@ -1,5 +1,6 @@
 # kaggle-Competition
 # Kaggle Leash-BELKA Competition Submission
+# Small molecule interaction prediction model
 
 ## Description
 This repository contains my submission for the [Kaggle Leash-BELKA competition](https://www.kaggle.com/competitions/leash-BELKA). The objective of the competition is to predict molecular properties based on the given dataset.
